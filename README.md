@@ -8,9 +8,16 @@
 
 ```
 # ローカルにこのリポジトリを clone
+git clone https://github.com/buckmoon/competitive_programming_env_for_ts.git
+
+# 移動
+cd competitive_programming_env_for_ts/ 
 
 # npm install
 npm install
+
+# 動作確認実行
+./node_modules/.bin/ts-node main.ts < sample.txt
 
 # コードの編集(VS Codeがおすすめ)
 code main.ts
@@ -18,5 +25,7 @@ code main.ts
 # テストケースの編集
 code sample.txt
 
-# 実行
-./node_modules/.bin/ts-node main.ts < sample.txt
+# 自分の書いたコードの実行は
+# 動作確認実行に同じ
+# bashrc などに短縮コマンド書いても良さそう
+```
