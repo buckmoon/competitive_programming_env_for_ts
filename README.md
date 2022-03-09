@@ -7,6 +7,8 @@
 ## 実行環境構築方法
 
 ```
+# 事前準備：作業環境用のディレクトリを作成して移動
+
 # ローカルにこのリポジトリを clone
 git clone https://github.com/buckmoon/competitive_programming_env_for_ts.git
 
