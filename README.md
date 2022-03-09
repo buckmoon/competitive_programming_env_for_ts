@@ -23,7 +23,7 @@ npm install
 # または
 npm test # 2行ぐらい何やら表示されたあと「<」 と表示されればOK
 
-# コードの編集(VS Codeがおすすめ)
+# コードの編集(VSCodeがおすすめ)
 code main.ts
 
 # テストケースの編集
