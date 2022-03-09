@@ -1,0 +1,18 @@
+{
+  "name": "typescript for cp",
+  "version": "1.0.0",
+  "description": "typescript env for competitive programming",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "fs": "0.0.1-security",
+    "ts-node": "^10.7.0",
+    "typescript": "^3.8.3"
+  }
+}
