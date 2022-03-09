@@ -4,7 +4,7 @@
   "description": "typescript env for competitive programming",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/ts-node main.ts < sample.txt"
   },
   "author": "",
   "license": "ISC",
