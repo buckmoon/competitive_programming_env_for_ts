@@ -20,6 +20,8 @@ npm install
 
 # 動作確認実行
 ./node_modules/.bin/ts-node main.ts < sample.txt # 「<」 と表示されればOK
+# または
+npm test # 2行ぐらい何やら表示されたあと「<」 と表示されればOK
 
 # コードの編集(VS Codeがおすすめ)
 code main.ts
