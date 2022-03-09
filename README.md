@@ -31,3 +31,8 @@ code sample.txt
 # 動作確認実行に同じ
 # bashrc などに短縮コマンド書いても良さそう
 ```
+
+## 参考情報
+- `code` コマンドについて https://iwb.jp/vscode-code-command-howto/
+- bashrc での短縮コマンド登録 https://qiita.com/yutat93/items/b5bb9c0366f21bcbea62
+- zshrc での短縮コマンド登録 https://qiita.com/terufumi1122/items/1bbb1cf96e376e30e9fc
