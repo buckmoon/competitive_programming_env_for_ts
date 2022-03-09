@@ -19,7 +19,7 @@ cd competitive_programming_env_for_ts/
 npm install
 
 # 動作確認実行
-./node_modules/.bin/ts-node main.ts < sample.txt
+./node_modules/.bin/ts-node main.ts < sample.txt # 「<」 と表示されればOK
 
 # コードの編集(VS Codeがおすすめ)
 code main.ts
